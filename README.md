@@ -1,7 +1,7 @@
 ### I can & I will. 
 ### Hello Pankhi Kashyap here. 
 
-- 🔭 I’m currently working at https://dsrl.tech/ It is start up we are building. As a WOMEN ENTREPRENEUR incubated at White House-led “Academy for Women Entrepreneurs (AWE)” program. 
+- 🔭 I’m currently working at https://dsrl.tech/ It is a start up we are building. As a WOMEN ENTREPRENEUR incubated at White House-led “Academy for Women Entrepreneurs (AWE)” program. 
 - 🌱 I’m currently learning deep learning. PRACTICING CODING OF COMPUTER VISION.
 - 👯 I’m looking to collaborate on FSL application on Medical Images. 
 - 🤔 I’m looking for help with understanding concepts of DL.
