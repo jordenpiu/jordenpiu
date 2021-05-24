@@ -1,5 +1,6 @@
 ### I can & I will. 
-### Hello Pankhi Kashyap here. 
+### Hello Pankhi Kashyap. Passionate about robotics, vision and learning. 
+### Working to gift the world a peaceful future. 
 
 - 🔭 I’m currently working at https://dsrl.tech/ It is a start up we are building. As a WOMEN ENTREPRENEUR incubated at White House-led “Academy for Women Entrepreneurs (AWE)” program. 
 - 🌱 I’m currently learning deep learning. PRACTICING CODING OF COMPUTER VISION.
