@@ -2,7 +2,7 @@
 ### Hello Pankhi Kashyap. Passionate about robotics, vision and learning. 
 ### Working to gift the world a peaceful future. 
 
-- 🔭 I’m currently working at https://dsrl.tech/ It is a start up we are building. As a WOMEN ENTREPRENEUR incubated at White House-led “Academy for Women Entrepreneurs (AWE)” program. 
+- 🔭 I’m currently working at https://dsrl.tech/ It is a start up we are building. As a woman entrepreneur currently incubated at White House-led “Academy for Women Entrepreneurs (AWE)” program. 
 - 🌱 I’m currently learning deep learning. PRACTICING CODING OF COMPUTER VISION.
 - 👯 I’m looking to collaborate on FSL application on Medical Images. 
 - 💬 programming language I practice : Python
