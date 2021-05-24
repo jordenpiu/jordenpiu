@@ -11,5 +11,6 @@
 - 📫 How to reach me: at instagram as jordenpiu | email: pankhidsrl@gmail.com | linkedin - Pankhi Kashyap
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I worship work and live to eat delicious food. I hate classroom education. Soltitude is bliss. 
+- Pursuing BE(ECE) from Gauhati University Institute of Science and Technology, Guwahati, Assam, India. 
    
 
