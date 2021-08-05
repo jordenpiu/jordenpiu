@@ -1,5 +1,5 @@
 ### I can & I will. 
-### Hello Pankhi Kashyap. Passionate about robotics, vision and learning. 
+### Hello I am Pankhi Kashyap. Passionate about robotics, vision and learning. 
 ### Working to gift the world a peaceful future. 
 
 - 🔭 I’m currently working at https://dsrl.tech/ It is a start up we are building. As a woman entrepreneur currently incubated at White House-led “Academy for Women Entrepreneurs (AWE)” program. 
